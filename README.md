@@ -1,6 +1,8 @@
 # Churn Analysis Project
-![Screenshot 2024-12-25 201220](https://github.com/user-attachments/assets/13c06b68-f4e9-4ba8-8982-f295f02c1c56)
-![Screenshot 2024-12-25 201134](https://github.com/user-attachments/assets/c8749be3-6854-4d56-bbd6-6b8ce2d245ba)
+
+<img src="https://github.com/user-attachments/assets/13c06b68-f4e9-4ba8-8982-f295f02c1c56" alt="Screenshot 2024-12-25 201220" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/c8749be3-6854-4d56-bbd6-6b8ce2d245ba" alt="Screenshot 2024-12-25 201134" width="500" height="300">
+
 ## Introduction
 In today’s competitive business landscape, retaining customers is critical for long-term success. This project focuses on churn analysis, a technique used to identify patterns and reasons for customer attrition. By leveraging advanced data analytics and machine learning, this project predicts customers at risk of leaving and identifies key drivers of churn. The insights enable businesses to take proactive measures, improve customer satisfaction, and enhance loyalty.
 
