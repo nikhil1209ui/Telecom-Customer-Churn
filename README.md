@@ -16,6 +16,8 @@ Provide actionable insights to improve customer retention and loyalty.
 ## Technologies Used
 - Data Engineering: Microsoft SQL Server
 - Data Visualization: Power BI
+- Exploratory Data Analysis
+- Feature Engineering
 - Machine Learning: Python (Random Forest Classifier)
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 - Tools: Jupyter Notebook
@@ -39,10 +41,12 @@ Provide actionable insights to improve customer retention and loyalty.
 - Total Customers, Churn Rate, and Key Drivers.
 
 ### 4. Machine Learning for Churn Prediction
-- Train a Random Forest Classifier to predict churn.
+- Trained a Random Forest Classifier to predict churn.
 #### Key Steps:
-- Encode categorical variables using LabelEncoder.
+- Encode categorical variables using OneHot Encoding.
 - Split data into training and testing sets.
+- Use SMOTEENN to upsample minority class to get unbiased result
+- Normalised numeric columns
 - Evaluate using confusion matrix and feature importance.
 
 ### 5. Visualize Predictions in Power BI
@@ -57,6 +61,6 @@ Provide actionable insights to improve customer retention and loyalty.
 - Revenue Contribution by Customer Status
 - 
 ### Results
-- Successfully identified high-risk customers with a predictive model.
+- Successfully identified high-risk customers with a predictive model having precision score of 96.6% and accuracy score of 96.2%.
 - Delivered interactive dashboards for business decision-making.
 - Provided actionable insights to target marketing campaigns and retention strategies.
