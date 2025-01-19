@@ -45,8 +45,8 @@ Provided actionable insights to improve customer retention and loyalty.
 - Established a connection between the database and Power BI for data extraction.
 - Created a dashboard in Power BI using the training data to understand historical trends and factors driving churn.
 ### 4. Data Exploration
-
-[Code](https://github.com/nikhil1209ui/Telecom-Customer-Churn/blob/main/EDA-Model.ipynb)
+[Code](https://github.com/nikhil1209ui/Telecom-Customer-Churn/blob/main/EDA-Model.ipynb) 
+`Code contains extensive and indepth analysis using visualizations with matplotlib and seaborn do check it`
 - Explore demographics, geographics, and account information.
 - Analyze churn distribution by features like:
 - Contract Type
@@ -67,6 +67,8 @@ Provided actionable insights to improve customer retention and loyalty.
 - Encoded categorical variables using OneHot Encoding.
 - Splitted data into training and testing sets.
 - Used SMOTEENN to upsample minority class to get unbiased result
+`from imblearn.combine import SMOTEENN`
+ `sm = SMOTEENN()`
 - Normalised numeric columns
 - Evaluated using confusion matrix and feature importance.
 
