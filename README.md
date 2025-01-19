@@ -81,11 +81,19 @@ Provided actionable insights to improve customer retention and loyalty.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/82f88a45-c78d-441a-81bd-80af3bc062e2" />
 
-## Key Metrics 
-- Total Customers
-- Total Churners & Churn Rate
-- New Joiners
-- Revenue Contribution by Customer Status
+## Key Visual Insights
+### Overview
+
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/252b7b1a-7a8c-4ebd-b925-156b5c29d58b" />
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/bb659976-7316-4bfa-8580-776f560fd767" />
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/1b53264c-cc12-4769-a55d-4912af1e1e87" />
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/718f7dfd-9db8-4aa5-9ae5-6f8f0c19ed87" />
+
+### After Predictions Analysis
+  
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/eaab2005-68c8-44e7-bf1d-76280013def0" />
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/61381852-3a5b-4faf-8d2f-4624d7822b08" />
+
 ### Results
 - Successfully identified high-risk customers with a predictive model having precision score of 96.6% and accuracy score of 96.2%.
 - Delivered interactive dashboards for business decision-making.
