@@ -5,6 +5,15 @@ In today’s competitive business landscape, retaining customers is critical for
 [Business Case PPT](https://github.com/nikhil1209ui/Telecom-Customer-Churn/blob/main/Business%20Case.pptx)
 
 A telecom firm, has observed a steady decline in customer retention rates, which directly impacts revenue and marketing ROI. Identifying at-risk customers and understanding the root causes of churn has become a top priority. By leveraging data-driven solutions, this project provides actionable insights and predictive capabilities to tackle churn and ensure sustainable growth.
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/a0d3d21c-8bac-48a6-a11b-5101c0b84d94" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/42413ec7-7865-4891-b148-87ecb014fc2d" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/163273bd-482d-40a8-b732-980017cd68d0" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6be2cd31-40aa-4edc-a7e7-490247dfa51c" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6858bd8b-1403-46a6-a334-85b7ef367ea5" />
+
+
+
 ## Key Achievements
 - Improved Customer Retention: Successfully identified high-risk customers with a machine learning model achieving a precision score of 96.6% and accuracy score of 96.2%.
 - Actionable Dashboards: Delivered interactive Power BI dashboards to visualize churn patterns and guide retention strategies.
@@ -62,7 +71,8 @@ Provided actionable insights to improve customer retention and loyalty.
 - Evaluated using confusion matrix and feature importance.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/67bf43ec-abe8-4084-a278-d8a55a3d7155" />
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/8bda7ee4-d917-4f92-8cdc-6ac1aa5cd03b" />
+<img width="392" alt="image" src="https://github.com/user-attachments/assets/2e752a4a-1f47-484a-8f8e-31cafcae28c3" />
+
 
 ### 7. Visualize Predictions in Power BI
 - Imported predictions into Power BI.
