@@ -60,6 +60,10 @@ Provided actionable insights to improve customer retention and loyalty.
 - Used SMOTEENN to upsample minority class to get unbiased result
 - Normalised numeric columns
 - Evaluated using confusion matrix and feature importance.
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/67bf43ec-abe8-4084-a278-d8a55a3d7155" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/8bda7ee4-d917-4f92-8cdc-6ac1aa5cd03b" />
+
 ### 7. Visualize Predictions in Power BI
 - Imported predictions into Power BI.
 - Added new visualizations for predicted churners:
