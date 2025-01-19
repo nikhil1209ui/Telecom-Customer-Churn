@@ -10,6 +10,7 @@
 In today’s competitive business landscape, retaining customers is critical for long-term success. This project focuses on churn analysis, a technique used to identify patterns and reasons for customer attrition. By leveraging advanced data analytics and machine learning, this project predicts customers at risk of leaving and identifies key drivers of churn. The insights enable businesses to take proactive measures, improve customer satisfaction, and enhance loyalty.
 ## Business Context
 [Business Case PPT](https://github.com/nikhil1209ui/Telecom-Customer-Churn/blob/main/Business%20Case.pptx)
+
 A telecom firm, has observed a steady decline in customer retention rates, which directly impacts revenue and marketing ROI. Identifying at-risk customers and understanding the root causes of churn has become a top priority. By leveraging data-driven solutions, this project provides actionable insights and predictive capabilities to tackle churn and ensure sustainable growth.
 ## Key Achievements
 - Improved Customer Retention: Successfully identified high-risk customers with a machine learning model achieving a precision score of 96.6% and accuracy score of 96.2%.
@@ -31,6 +32,8 @@ Provided actionable insights to improve customer retention and loyalty.
 ### 1. Data Collection
 - Gathered data from a confidential source and took a representative sample for analysis.
 ### 2. Data Preprocessing (SQL)
+[Queries](https://github.com/nikhil1209ui/Telecom-Customer-Churn/tree/main/SQL-Queries)
+
 - Database Loading: Imported the dataset into SQL Server Management Studio (SSMS).
 - Data Cleaning: Preprocessed the data to remove inconsistencies and duplicates.
 - Data Partitioning: Divided the data into two views:
