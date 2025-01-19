@@ -1,11 +1,4 @@
 # Customer Churn Analysis
-
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/8c104b0b-eb9e-4002-b177-5057b95b5efe" />
-
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/82f88a45-c78d-441a-81bd-80af3bc062e2" />
-
-
-
 ## Introduction
 In today’s competitive business landscape, retaining customers is critical for long-term success. This project focuses on churn analysis, a technique used to identify patterns and reasons for customer attrition. By leveraging advanced data analytics and machine learning, this project predicts customers at risk of leaving and identifies key drivers of churn. The insights enable businesses to take proactive measures, improve customer satisfaction, and enhance loyalty.
 ## Business Context
@@ -52,6 +45,9 @@ Provided actionable insights to improve customer retention and loyalty.
 - Create dynamic visualizations for:
 - Churn rates by demographics, services, and geography.
 - Total Customers, Churn Rate, and Key Drivers.
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/8c104b0b-eb9e-4002-b177-5057b95b5efe" />
+
 ### 6. Machine Learning for Churn Prediction
 - Trained a Random Forest Classifier to predict churn.
 #### Key Steps:
@@ -64,6 +60,9 @@ Provided actionable insights to improve customer retention and loyalty.
 - Imported predictions into Power BI.
 - Added new visualizations for predicted churners:
 - Churn Count by State, Gender, and Contract Type.
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/82f88a45-c78d-441a-81bd-80af3bc062e2" />
+
 ## Key Metrics 
 - Total Customers
 - Total Churners & Churn Rate
