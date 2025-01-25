@@ -1,6 +1,6 @@
--- Data Exploration – Check Nulls
+-- Data Exploration â€“ Check Nulls
 
-SELECT 'Customer_ID_Null_Count' AS Column_Name, SUM(CASE WHEN Customer_ID IS NULL THEN 1 ELSE 0 END) AS Null_Count
+SELECT 'Customer_ID_Null_Count', SUM(CASE WHEN Customer_ID IS NULL THEN 1 ELSE 0 END)
 FROM Customer_Data
 UNION ALL
 SELECT 'Gender_Null_Count', SUM(CASE WHEN Gender IS NULL THEN 1 ELSE 0 END)
