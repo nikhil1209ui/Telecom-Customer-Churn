@@ -59,7 +59,7 @@ Provided actionable insights to improve customer retention and loyalty.
 - Payment Method
 - Tenure Group
 ### 5. Power BI Dashboards
-- Create dynamic visualizations for:
+- Created dynamic visualizations for:
 - Churn rates by demographics, services, and geography.
 - Total Customers, Churn Rate, and Key Drivers.
 
