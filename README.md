@@ -3,7 +3,8 @@
 In today’s competitive business landscape, retaining customers is critical for long-term success. This project focuses on churn analysis, a technique used to identify patterns and reasons for customer attrition. By leveraging advanced data analytics and machine learning, this project predicts customers at risk of leaving and identifies key drivers of churn. The insights enable businesses to take proactive measures, improve customer satisfaction, and enhance loyalty.
 
 ## App Overview 
-[Streamlit-App](https://telecom-customer-churn-95t3.onrender.com/)
+#### [Streamlit-App](https://telecom-customer-churn-95t3.onrender.com/)
+
 This app is an end-to-end solution for Customer Churn Prediction, designed to help businesses identify at-risk customers and understand the factors driving churn. It preprocesses customer data, applies machine learning models, and provides actionable insights through interactive visualizations. The app is deployed on Render, making it accessible and scalable for business needs.
 
 ## Business Context
