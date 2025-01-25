@@ -5,7 +5,7 @@ In today’s competitive business landscape, retaining customers is critical for
 ## App Overview 
 #### [Streamlit-App](https://telecom-customer-churn-95t3.onrender.com/)
 
-This app is an end-to-end solution for Customer Churn Prediction, designed to help businesses identify at-risk customers and understand the factors driving churn. It preprocesses customer data, applies machine learning models, and provides actionable insights through interactive visualizations. The app is deployed on Render, making it accessible and scalable for business needs.
+This app is an end-to-end solution for Customer Churn Prediction, designed to help businesses identify at-risk customers. 
 
 ## Business Context
 [Business Case PPT](https://github.com/nikhil1209ui/Telecom-Customer-Churn/blob/main/Business%20Case.pptx)
